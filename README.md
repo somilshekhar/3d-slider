@@ -7,16 +7,8 @@
 
 A visually stunning 3D image slider built entirely with **HTML and CSS** — no JavaScript required! This slider uses **CSS variables**, **3D transforms**, and **keyframe animations** to create a smooth and immersive 3D effect.  
 
-Check out the **live demo** here: [3d-slider.vercel.app](https://3d-slider.vercel.app/)
+Check out the **live demo** here: [3d-slider.vercel.app](https://3d-slider-gamma.vercel.app/)
 
----
-
-## 🎬 Demo
-
-![3D Slider Preview](https://media.giphy.com/media/3o7aD4A1e9lRskc5EY/giphy.gif)  
-*Preview of the 3D slider effect.*
-
----
 
 ## 🚀 Features
 
